@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🐍 check this out [fopf-print](https://github.com/orgs/fopf-print/repositories) for better python code 😅
+- 🐍 check this out for better python code 😅: [fopf-print](https://github.com/orgs/fopf-print/repositories)
 - 📬 you can reach me through tg: [@DanilaManakov](t.me/DanilaManakov)
 
 <!--
