@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🐍 check this out [fopf-print](https://github.com/orgs/fopf-print/repositories) for better python code 😅
+- 📬 you can reach me through tg: [@DanilaManakov](t.me/DanilaManakov)
+
 <!--
 **DanilaDanila/DanilaDanila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
