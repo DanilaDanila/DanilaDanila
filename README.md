@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🐍 check this out for better python code 😅: [fopf-print](https://github.com/orgs/fopf-print/repositories)
+- ⌛2022 - 2023 code example: [random forest TO sql query](https://github.com/DanilaDanila/Hokokuji)
 - 📬 you can reach me through tg: [@DanilaManakov](t.me/DanilaManakov)
 
 <!--
