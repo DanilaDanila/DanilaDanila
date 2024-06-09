@@ -2,6 +2,7 @@
 
 - 🐍 check this out for better python code 😅: [fopf-print](https://github.com/orgs/fopf-print/repositories)
 - ⌛2022 - 2023 python code example: [random forest TO sql query](https://github.com/DanilaDanila/Hokokuji)
+- 💻 slides from Operating Systems course: [2023-caos-examples](https://github.com/DanilaDanila/2023-caos-examples), [2022-caos-examples](https://github.com/DanilaDanila/caos-examples)
 - 📬 you can reach me through tg: [@DanilaManakov](t.me/DanilaManakov)
 
 <!--
